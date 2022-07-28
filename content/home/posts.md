@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
+# Active or not?
+active: false
+
 title: Recent Posts
 subtitle:
 
