@@ -14,7 +14,7 @@ organizations:
     url: https://www.ul.ie/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Legislative Politics, European Union Politics, and Historical Political Development.
+bio: Senior Lecturer at the University of Limerick. Interested in Legislative Politics, European Union Politics, and Historical Political Development.
 
 # Interests to show in About widget
 interests:
@@ -43,15 +43,15 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/FHaege
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=NVKefpoAAAAJ&hl=en
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0086-6619
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/frankhaege
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/frankhaege
   - icon: dataverse
     icon_pack: ai
     link: https://dataverse.harvard.edu/dataverse/haege    
