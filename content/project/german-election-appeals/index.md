@@ -11,7 +11,10 @@ tags:
   - political development
   - Imperial Germany
   - Weimar Republic
-date: '2022-08-01T00:00:00Z'
+date: '2022-07-29T00:00:00Z'
+
+# Order that this section appears on the page.
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

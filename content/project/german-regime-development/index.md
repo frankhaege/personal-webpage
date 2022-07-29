@@ -8,7 +8,10 @@ tags:
   - institutional reforms
   - constitutional politics
   - Imperial Germany
-date: '2022-08-01T00:00:00Z'
+date: '2022-07-29T00:00:00Z'
+
+# Order that this section appears on the page.
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

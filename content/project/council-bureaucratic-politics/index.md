@@ -9,7 +9,10 @@ tags:
   - political attention
   - delegation
   - bureaucratic politics
-date: '2022-08-01T00:00:00Z'
+date: '2022-07-29T00:00:00Z'
+
+# Order that this section appears on the page.
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -34,6 +37,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
+
 ---
 
 Beginning with my PhD dissertation, several of my studies examine legislative decision-making in the Council of the European Union, and especially the role played by diplomats and other national officials in shaping the process and outcome of decision-making. Collectively, they help to improve our understanding of the internal decision-making process of the Council, which has long been seen as a 'black box'.
