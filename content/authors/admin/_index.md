@@ -14,7 +14,7 @@ organizations:
     url: https://www.ul.ie/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Lecturer at the University of Limerick. Interested in Legislative Politics, European Union Politics, and Historical Political Development.
+bio: Senior Lecturer at the University of Limerick. Interested in Legislative Politics, European Union Politics, and Historical Political Economy.
 
 # Interests to show in About widget
 interests:
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv-220728.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,6 +70,10 @@ email: ''
 highlight_name: true
 ---
 
-I am a Senior Lecturer in the Department of Politics and Public Administration at the University of Limerick. My research interests include Legislative Politics, European Union Politics, and Historical Political Economy.
+I am a Senior Lecturer in the Department of Politics and Public Administration at the University of Limerick. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+In my research, I study the involvement and interactions of various types of actors in legislative decision-making as well as their relative influence on policy processes and outcomes, mainly in the context of the European Union. I am also interested in classic political science questions about the historical development of political parties, electoral competition, and democratic institutions more broadly.
+
+This site provides information about my research and publications. It also provides access to quantitative data sets and other research outputs.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-220728.pdf" "newtab" >}}CV{{< /staticref >}}.

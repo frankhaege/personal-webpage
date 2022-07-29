@@ -37,7 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter the Foundation Building and take the stairs to Office F1-019 on Floor 1
+  directions: Foundation Building, Room F1-019
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'

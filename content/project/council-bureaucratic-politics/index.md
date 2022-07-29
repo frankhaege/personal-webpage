@@ -1,0 +1,39 @@
+---
+title: Bureaucratic Politics in the Council of the European Union
+summary: Beginning with my PhD dissertation, several of my studies examine legislative decision-making in the Council of the European Union, and especially the role played by diplomats and other national officials in shaping the process and outcome of decision-making. Collectively, they help to improve our understanding of the internal decision-making process of the Council, which has long been seen as a 'black box'.                                                                                                                                                         
+tags:
+  - Council of the European Union
+  - decision-making
+  - bargaining
+  - consensus
+  - political attention
+  - delegation
+  - bureaucratic politics
+date: '2022-08-01T00:00:00Z'
+
+# Optional external URL for project (replaces project detail page).
+external_link: ''
+
+image:
+  caption: 
+  focal_point: Smart
+
+links:
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: Follow
+  #   url: https://twitter.com/fhaege
+url_code: ''
+url_pdf: ''
+url_slides: ''
+url_video: ''
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
+
+Beginning with my PhD dissertation, several of my studies examine legislative decision-making in the Council of the European Union, and especially the role played by diplomats and other national officials in shaping the process and outcome of decision-making. Collectively, they help to improve our understanding of the internal decision-making process of the Council, which has long been seen as a 'black box'.
