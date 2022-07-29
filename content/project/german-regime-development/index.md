@@ -4,6 +4,8 @@ summary: This project examines the economic and political factors that influence
 tags:
   - democratisation
   - autocratisation
+  - parliamentarisation
+  - civil liberties
   - regime change
   - institutional reforms
   - constitutional politics

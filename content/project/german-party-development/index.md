@@ -1,6 +1,6 @@
 ---
 title: The origins of political parties and conflict structures in Germany
-summary: This project examines the classic question of why political parties formed and how they shaped political conflict structures combining historical information about roll call votes in the German Reichstag with political and socio-economic data about constituency characteristics of parliamentarians from 1867 to 1918.
+summary: This project examines the classic question of why political parties formed and how they shaped political conflict structures, combining historical information about roll call votes in the German Reichstag with political and socio-economic data about constituency characteristics of parliamentarians from 1867 to 1918.
 tags:
   - Reichstag
   - roll call votes
@@ -39,4 +39,4 @@ url_video: ''
 slides: 
 ---
 
-This project examines the classic question of why political parties formed and how they shaped political conflict structures combining historical information about roll call votes in the German Reichstag with political and socio-economic data about constituency characteristics of parliamentarians from 1867 to 1918.
+This project examines the classic question of why political parties formed and how they shaped political conflict structures, combining historical information about roll call votes in the German Reichstag with political and socio-economic data about constituency characteristics of parliamentarians from 1867 to 1918.

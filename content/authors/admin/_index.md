@@ -46,6 +46,9 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=NVKefpoAAAAJ&hl=en
+  - icon: researcherid
+    icon_pack: ai
+    link: https://publons.com/wos-op/researcher/C-1834-2012/ 
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0086-6619
@@ -55,7 +58,7 @@ social:
   - icon: dataverse
     icon_pack: ai
     link: https://dataverse.harvard.edu/dataverse/haege    
-
+ 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
