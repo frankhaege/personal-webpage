@@ -8,7 +8,7 @@ summary: ''
 authors:
 - admin
 tags: [Council of the European Union, agenda-setting, delegation, European External Action Service, High Representative of the Union for Foreign Affairs and Security Policy]
-categories: [European Union Politics, Bureaucratic Politics, International Relations]
+categories: []
 date: '2020-12-01'
 lastmod: 2022-07-28T15:50:33+01:00
 featured: true
@@ -27,7 +27,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [council-bureaucratic-politics]
+projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:32.805235Z'
 publication_types:
 - '2'

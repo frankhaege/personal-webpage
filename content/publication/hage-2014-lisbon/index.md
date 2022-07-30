@@ -6,12 +6,12 @@ title: The Lisbon Treaty’s change to Council voting rules will have important 
 subtitle: ''
 summary: ''
 authors:
-- Frank Häge
-tags: []
+- admin
+tags: [Lisbon Treaty, voting rules, Council of the European Union, decision-making, qualified majority voting, democratic legitimacy]
 categories: []
-date: '2014-01-01'
+date: '2014-02-03'
 lastmod: 2022-07-28T15:50:30+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -20,17 +20,22 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:29.980638Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*LSE European Politics and Policy (EUROPP) Blog*'
+- '0'
+abstract: 'Many of the decisions made in the Council of the European Union are based on qualified majority voting, in which EU legislation can be passed if a certain threshold of support is met among member states. Frank Häge assesses the potential implications of the changes to qualified majority voting rules under the Lisbon Treaty, which came into force in November 2014. He notes that while the precise impact of the changes remains to be seen, they will have important ramifications for the overall legitimacy of the EU’s legislative process.'
+publication: '*European Politics and Policy (EUROPP) Blog*. London: London School of Economics (available at http://bit.ly/1j3ZrAw)'
+
+links: 
+- name: Blog
+  url: http://bit.ly/1j3ZrAw
+
 ---

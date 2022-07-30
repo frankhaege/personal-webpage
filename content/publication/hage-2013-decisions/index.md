@@ -11,7 +11,7 @@ tags: []
 categories: []
 date: '2013-01-01'
 lastmod: 2022-07-28T15:50:29+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -20,7 +20,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -30,7 +30,13 @@ image:
 projects: []
 publishDate: '2022-07-28T14:50:29.447290Z'
 publication_types:
-- '2'
+- '0'
 abstract: ''
-publication: '*LSE European Politics and Policy (EUROPP) Blog*'
+publication: '*European Politics and Policy (EUROPP) Blog*. London: London School of Economics and Political Science (available at http://bit.ly/11p70EL'
+
+links: 
+- name: Blog
+  url: http://bit.ly/11p70EL
+- name: Article
+  url: 
 ---
