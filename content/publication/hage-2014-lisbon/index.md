@@ -30,7 +30,7 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:29.980638Z'
 publication_types:
-- '0'
+- '6'
 abstract: 'Many of the decisions made in the Council of the European Union are based on qualified majority voting, in which EU legislation can be passed if a certain threshold of support is met among member states. Frank Häge assesses the potential implications of the changes to qualified majority voting rules under the Lisbon Treaty, which came into force in November 2014. He notes that while the precise impact of the changes remains to be seen, they will have important ramifications for the overall legitimacy of the EU’s legislative process.'
 publication: '*European Politics and Policy (EUROPP) Blog*. London: London School of Economics (available at http://bit.ly/1j3ZrAw)'
 

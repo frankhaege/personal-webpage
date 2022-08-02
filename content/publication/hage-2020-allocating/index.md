@@ -30,12 +30,14 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:32.805235Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'Supranational bureaucracies are often promoted as a solution to collective action problems. In the European Union context, investing the High Representative for Foreign Affairs and Security Policy with new agenda-setting powers was expected to improve the coherence, continuity and efficiency of foreign policy-making. Relying on novel fine-grained and comprehensive data about the content and duration of working party meetings, the study maps and analyses the allocation of political attention to different foreign policy issues between 2001 and 2014. The results show that the empowerment of the High Representative by the Lisbon Treaty had little immediate effect on the Council’s foreign policy agenda. However, the study also indicates that this result might be due to a lack of capability and ambition rather than weak institutional prerogatives.'
 publication: '*European Union Politics* 21(4), 634–656'
 links: 
+- name: Journal
+  url: https://journals.sagepub.com/doi/abs/10.1177/1465116520942317
 - name: Appendix
   url: hage-2020-allocating-supplement.pdf
 - name: Data
-  url: 
+  url: https://doi.org/10.7910/DVN/MNSNMI
 ---

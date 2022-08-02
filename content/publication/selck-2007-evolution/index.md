@@ -7,12 +7,12 @@ summary: ''
 authors:
 - Torsten J Selck
 - Mark Rhinard
-- Frank M Häge
-tags: []
+- admin
+tags: [European Union, European integration, legal integration, time-series analysis, dynamic models, Intergovernmentalism, Neo-functionalism, legislative politics]
 categories: []
 date: '2007-01-01'
 lastmod: 2022-07-28T15:50:17+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -21,7 +21,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,7 +31,11 @@ image:
 projects: []
 publishDate: '2022-07-28T14:50:16.778687Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*European Journal of Law and Economics*'
+- '1'
+abstract: "This article contributes to the development of theories on European integration by testing and exploring statistical models on the long-term development of legislative activity of the European Commission. Drawing on legal information gained from the European Union’s PreLex database and analyzing it with the help of statistical analyses, we map out growth patterns of EU law between 1976 and 2003. We construct time-series models and models based on non-linear regression. While the performance of models based on the traditional theoretical approaches, intergovernmentalism and neo-functionalism, is rather poor, the analysis suggests that nonlinear dynamic models might be an interesting avenue for future conceptualizations of the EU integration process."
+publication: '*European Journal of Law and Economics* 24(3): 187-200'
+
+links:
+- name: Journal
+  url: https://doi.org/10.1007/s10657-007-9024-8
 ---

@@ -30,7 +30,7 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:28.224897Z'
 publication_types:
-- '0'
+- '6'
 abstract: 'When government ministers meet in the Council of the European Union, what determines the level of attention they direct toward particular policy areas and issues? Based on recent research, Frank Häge illustrates how the Council has focused on different policy areas over time. He writes that one of the most striking trends to emerge from the data is the reactive nature of the Council with respect to managing the financial and migration crises, with both issues receiving relatively little attention until after each crisis began.'
 publication: '*European Politics and Policy (EUROPP) Blog*. London: London School of Economics and Political Science (available at http://bit.ly/2c0aGKG)'
 

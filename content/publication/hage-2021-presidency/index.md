@@ -29,7 +29,7 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:31.135000Z'
 publication_types:
-- '6'
+- '2'
 abstract: 'The Presidency of the Council is one of the most important leadership positions in the institutional setup of the European Union
 (EU). Yet, the treaties defining this institutional setup are largely silent on the Presidency’s powers, roles, and functions.
 Apart from a single paragraph in the Treaty
@@ -78,4 +78,8 @@ questions, and this review is organized
 around theoretical and empirical answers to
 them.'
 publication: 'Pp. 2015-2039 in Finn Laursen (ed.): *Oxford Encyclopedia of European Union Politics*. Oxford: Oxford University Press'
+
+links:
+- name: Publisher
+  url: "https://global.oup.com/academic/product/the-oxford-encyclopedia-of-european-union-politics-9780190856427?cc=ie&lang=en&"
 ---

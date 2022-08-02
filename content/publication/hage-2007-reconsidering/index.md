@@ -6,13 +6,13 @@ title: 'Reconsidering the European Parliament’s legislative influence: Formal 
 subtitle: ''
 summary: ''
 authors:
-- Frank M Häge
+- admin
 - Michael Kaeding
-tags: []
+tags: [codecision, Council of the European Union, European Parliament, informal institutions, institutional choice, decision-making, legislative politics, bicameral bargaining, trilogues, transparency, bargaining power]
 categories: []
 date: '2007-01-01'
 lastmod: 2022-07-28T15:50:11+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -21,7 +21,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -31,7 +31,11 @@ image:
 projects: []
 publishDate: '2022-07-28T14:50:10.591796Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*Journal of European Integration*'
+- '1'
+abstract: 'More and more legislative decisions are reached in early stages of the co‐decision procedure through informal negotiations among representatives of the EU institutions. This study argues that the European Parliament has an advantage in such negotiations relative to the Council due to the latter’s limited organizational resources to handle the increased legislative workload under the co‐decision procedure. The main implication of this theoretical argument is that the Parliament’s impact on the content of legislation should be higher when informal negotiations are conducted rather than when agreement is reached at the end of the procedure in conciliation. To examine this claim, a quantitative comparative study of the success of the Parliament’s amendments in two legislative decision‐making processes in the field of transport was conducted. The results reveal that the EP’s influence during co‐decision is indeed larger in the case of an early agreement.'
+publication: '*Journal of European Integration* 29(3): 341-361'
+
+links:
+- name: Journal
+  url: https://doi.org/10.1080/07036330701442356
 ---

@@ -30,15 +30,17 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:27.697867Z'
 publication_types:
-- '2'
+- '1'
 abstract: "Little firm knowledge exists about the allocation of the Council's political attention across policy areas and over time. This article presents a new dataset of the date, duration, and policy coding of more than 70,000 meetings of Council working parties, covering all areas of the Council's policy activities between 1995 and 2014. In terms of both scope and resolution, the data allow for the generation of unprecedented insights into what issues occupy the Council's agenda, how that varies between and within policy areas, and how that changes over time. After discussing conceptual issues and explaining the construction of the dataset, the article demonstrates its usefulness and versatility through analyses of the Council's political attention at various levels of aggregation."
 publication: '*European Union Politics* 17(4): 683–703'
 
 links: 
-- name: Blog
-  url: http://bit.ly/2c0aGKG
+- name: Journal
+  url: https://doi.org/10.1177/1465116516649062
 - name: Appendix
   url: suppl-material.pdf
 - name: Data
-  url: 
+  url: https://doi.org/10.7910/DVN/VQRFLN
+- name: Blog
+  url: http://bit.ly/2c0aGKG
 ---

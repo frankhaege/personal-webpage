@@ -29,14 +29,15 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:27.103732Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'Does the Presidency of the Council of the European Union have the ability to direct the political attention of this body by emphasizing and de-emphasizing policy issues according to its own priorities? This study examines this question empirically by relying on a new dataset on the monthly meeting duration of Council working parties in different policy areas between 1995 and 2014. The results of variance component analyses show that a considerable part of the over-time variation in the relative amount of political attention devoted to a policy area is systematically related to different Presidency periods. While not negating the constraints imposed on the Presidency by inherited agendas, programming and co-ordination requirements with other actors, the findings are consistent with the view that the Presidency has substantial scope for agenda-setting by determining what issues are being discussed, when they are being discussed and how much time is devoted for their discussion.'
 
 publication: '*Journal of European Public Policy* 24(5): 695-713'
 
 links: 
+- name: Journal
+  url: https://doi.org/10.1080/13501763.2016.1158203
 - name: Appendix
   url: rjpp_a_1158203_sm4457.pdf
-- name: Data
-  url: 
+
 ---

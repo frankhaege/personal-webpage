@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Review of 'Procedural Politics. Issues, Influence, and Institutional Choice
-  in the European Union'
+title: "Book Review of 'Procedural Politics. Issues, Influence, and Institutional Choice
+  in the European Union' by Joseph Jupille, Cambridge: Cambridge University Press, 2004"
 subtitle: ''
 summary: ''
 authors:
-- Frank M Häge
-tags: []
+- admin
+tags: [European Union, institutional choice, decision-making, legislative politics]
 categories: []
 date: '2006-01-01'
 lastmod: 2022-07-28T15:50:21+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -20,7 +20,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -30,7 +30,11 @@ image:
 projects: []
 publishDate: '2022-07-28T14:50:20.806819Z'
 publication_types:
-- '2'
-abstract: ''
-publication: '*Acta Politica*'
+- '4'
+abstract: "In this book, Joseph Jupille sets out a theory of procedural politics, defined as
+the ‘everyday conduct of politics not within, but with respect to, political
+institutions’. The theory is applied to explain the selection of treaty bases,
+where these treaty bases imply different procedures for legislation to be passed,
+in the European Union (EU)."
+publication: '*Acta Politica* 41(4): 440-444'
 ---

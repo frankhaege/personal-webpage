@@ -29,7 +29,7 @@ image:
 projects: [council-decision-making]
 publishDate: '2022-07-28T14:50:31.135000Z'
 publication_types:
-- '6'
+- '2'
 abstract: 'The Presidency plays a crucial role in the management and organization of the Council of the European Union’s work and the institution’s interactions with third parties. Formally, the Presidency just chairs the meetings of Council bodies; but over time, member states have endowed it with a range of procedural prerogatives to structure the Council’s agenda and broker agreements, which post holders can potentially use to advance their own private interests. The potential for abuse of these powers raises two related questions: first, why would member states grant these powers to the Presidency, and second, is the Presidency actually able to use these powers to advance its own priorities and policy preferences?
 
 
@@ -42,4 +42,7 @@ Responses to the second question about the actual influence of the Presidency ca
 Existing empirical research provides clear evidence that the Presidency can exercise both scheduling power and proposal-making power at least to some extent and under certain conditions. Interesting questions for future research relate to the overall size and prevalence of the effects of the Presidency’s powers, the mechanisms through which these effects are generated, as well as the conditions that explain their variation over time, across policy areas, and across member state characteristics.'
 publication: '*Oxford Research Encyclopedia of Politics*. Oxford: Oxford University Press (available at https://doi.org/10.1093/acrefore/9780190228637.013.1071)'
 
+links:
+- name: Publisher
+  url: https://global.oup.com/academic/product/the-oxford-encyclopedia-of-european-union-politics-9780190856427?cc=ie&lang=en&
 ---

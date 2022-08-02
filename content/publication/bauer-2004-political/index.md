@@ -7,13 +7,13 @@ subtitle: ''
 summary: ''
 authors:
 - Johannes Bauer
-- Frank M Häge
+- admin
 - Volker Schneider
-tags: []
+tags: [veto players, interest groups, corporatism, institutional change, policy change, telecommunications, institutional change, ideology, party government]
 categories: []
-date: '2004-01-01'
+date: '2004-04-01'
 lastmod: 2022-07-28T15:50:18+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -22,7 +22,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -32,7 +32,25 @@ image:
 projects: []
 publishDate: '2022-07-28T14:50:17.537787Z'
 publication_types:
-- '1'
-abstract: ''
-publication: '*Annual Meeting of the Midwest Political Science Association*'
+- '3'
+abstract: 'The past two decades have witnessed a significant realignment
+of the roles of the state and the private sector in infrastructure
+industries. Using telecommunications as an example,
+the study takes advantage of this “natural experiment”
+to review the explanatory power of the veto player
+model both theoretically and empirically. At a theoretical
+level, we point out that one of the great advantages of the
+veto player model, its parsimony, is at the same time its
+weakness. This conclusion is solidified by our empirical
+results. In contrast to earlier work that uses the number of
+significant laws as the dependent variable, the paper develops
+a multi-dimensional measure of the legal and institutional
+transformation. We find that the simple veto player
+model does not explain the empirical pattern of reforms.
+An augmented model that differentiates between collective
+and competitive veto players has much higher explanatory
+power. Moreover, we find that the structural configuration
+of the interest group system helps explain the dynamics as
+well as the extent of sector transformation.'
+publication: '*Annual Meeting of the Midwest Political Science Association*, 15-18 April, Chicago'
 ---

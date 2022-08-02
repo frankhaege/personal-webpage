@@ -1,0 +1,11 @@
+# Publication types.
+# Each item in the list corresponds to an item in the language packs.
+types = [ "pub_0_book",
+          "pub_1_journal",
+          "pub_2_book_section",
+          "pub_3_work",
+          "pub_4_review",
+          "pub_5_thesis",
+          "pub_6_blog",
+          "pub_7_other"
+        ]

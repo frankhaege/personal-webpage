@@ -1,6 +1,6 @@
 ---
-title: Collective decision-making in the Council of the European Union
-summary: This strand of research look at various aspects of decision-making within in the Council of the European Union, including the measurement of actor preferences, their powers with respect to agenda-setting and bargaining, and the production of particular procedural outcomes, such as consensual decisions.                                                                                                                                                          
+title: Decision-making in the Council of the European Union
+summary: This strand of research looks at various aspects of decision-making within in the Council of the European Union, including the measurement of actor preferences, their powers with respect to agenda-setting and bargaining, and the production of particular procedural outcomes, such as consensual decisions.                                                                                                                                                          
 tags:
   - Council of the European Union
   - decision-making
