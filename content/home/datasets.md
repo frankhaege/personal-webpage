@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 70
 
-title: Research
+title: Data
 subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: dataset
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -33,7 +33,7 @@ content:
   #     tag: Historical Political Economy
   #   - name: Other
   #     tag: Other
-
+      
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -43,7 +43,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

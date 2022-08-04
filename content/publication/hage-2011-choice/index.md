@@ -28,6 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+datasets: ["fpsim"]
 publishDate: '2022-07-28T14:50:18.301567Z'
 publication_types:
 - '1'

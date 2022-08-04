@@ -44,5 +44,5 @@ publication: '*Oxford Research Encyclopedia of Politics*. Oxford: Oxford Univers
 
 links:
 - name: Publisher
-  url: https://global.oup.com/academic/product/the-oxford-encyclopedia-of-european-union-politics-9780190856427?cc=ie&lang=en&
+  url: https://doi.org/10.1093/acrefore/9780190228637.013.1071
 ---

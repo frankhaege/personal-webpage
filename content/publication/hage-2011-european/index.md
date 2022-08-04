@@ -27,6 +27,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: [council-decision-making]
+datasets: [eupol]
+
 publishDate: '2022-07-28T14:50:16.118829Z'
 publication_types:
 - '1'

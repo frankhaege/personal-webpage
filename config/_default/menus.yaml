@@ -20,8 +20,8 @@ main:
     url: 'publication'
     weight: 50
   - name: Data
-    url: 'dataverse'
-    weight: 60
+    url: '#datasets'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 70
