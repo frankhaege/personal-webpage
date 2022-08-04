@@ -72,6 +72,3 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-marketing:
-  analytics:
-    google_tag_manager: 'G-TDM93BQFV2'
