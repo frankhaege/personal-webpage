@@ -1,17 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Political and Societal Veto Players in Regulatory Reform: The Transformation
-  of Telecommunications in OECD Countries'
+title: 'Political and Societal Veto Players in Regulatory Reform: The Transformation of Telecommunications in OECD Countries'
 subtitle: ''
 summary: ''
 authors:
-- Johannes Bauer
 - admin
-- Volker Schneider
-tags: [veto players, interest groups, corporatism, institutional change, policy change, telecommunications, institutional change, ideology, party government]
+tags: [infrastructure policy, privatisation, telecommunications, veto player theory, corporatism, interest groups, OECD countries]
 categories: []
-date: '2004-04-01'
+date: '2004-04-15'
 lastmod: 2022-07-28T15:50:18+01:00
 featured: true
 draft: false
@@ -52,5 +49,6 @@ and competitive veto players has much higher explanatory
 power. Moreover, we find that the structural configuration
 of the interest group system helps explain the dynamics as
 well as the extent of sector transformation.'
-publication: '*Annual Meeting of the Midwest Political Science Association*, 15-18 April, Chicago'
+publication: 'Paper prepared for the *Annual Meeting of the Midwest Political Science Association*, 15-18 April, Chicago
+'
 ---

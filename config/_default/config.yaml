@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Frank M. Häge # Website name
-baseURL: 'https://frankhaege.netlify.app' # Website URL
+baseURL: 'https://www.frankhaege.eu/' # Website URL
 
 ############################
 ## LANGUAGE

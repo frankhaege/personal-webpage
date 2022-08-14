@@ -45,3 +45,5 @@ links:
 - name: Journal
   url: https://doi.org/10.1080/01402382.2011.523542
 ---
+
+This article won the [**Gordon Smith and Vincent Wright Memorial Prize**](/uploads/The-Gordon-Smith-and-Vincent-Wright-Memorial-Prizes.pdf) of *West European Politics* for making "a significant contribution to the study of comparative European politics".
